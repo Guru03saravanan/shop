@@ -1,0 +1,91 @@
+.navbar{
+    position: sticky;
+    top: 0px;
+}  
+
+/* shop section */
+
+#shop{
+    text-align: center;
+}
+.col{
+    border-radius: 5px;
+}
+.sale{
+    display: flex;
+}
+.but{
+   font-size: 20px;
+   font-weight: 600;
+}
+
+.col img{
+    height: 250px;
+    width: 315px;
+}
+.sale i{
+    font-size: 25px;
+    padding-left: 120px;
+    padding-top: 10px;
+}
+
+.rating-icon i{
+    color: gold;
+    margin-left: 5px;
+}
+.buy{
+    height: 30px;
+    width: 80px;
+    border: none;
+    background-color: rgb(22, 240, 22);
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+
+.d-block{
+    height: 600px;
+    width: 100%;
+}
+.head1{
+    color: black;
+    font-size: 40px;
+}
+.para1{
+    color: orange;
+    font-size: 35px;
+}
+.para2{
+    color: black;
+}
+
+.back img{
+    width: 100%;
+    height: 100vh;
+}
+
+/* new section */
+#New{
+    text-align: center;
+}
+ .card-img-top{ 
+    height: 350px;
+}
+
+/* about section */
+
+.about-icon i{
+    color: black;
+    font-size: 23px;
+    margin-left: 4px;
+}
+.about-icon i:hover{
+    color: orange;
+}
+
+li{
+    list-style: none;
+}
+#about{
+    background-color: #ebe9e9;
+}
+
